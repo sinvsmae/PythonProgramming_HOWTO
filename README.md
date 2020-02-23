@@ -1,5 +1,5 @@
 # PythonProgramming_HOWTO
 
-## date_process
+## time_process
 ### seconds -> hh:mm:ss
 
